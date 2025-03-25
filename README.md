@@ -50,6 +50,7 @@ Building modern, responsive, and user-centric applications.
 
 ## 📊 Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 <a href="https://leetcode.com/rajritik">
     <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" style="max-width: 100%;"/>
   </a>
