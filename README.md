@@ -50,8 +50,9 @@ Building modern, responsive, and user-centric applications.
 
 ## 📊 Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/rajritik)
-
+<a href="https://leetcode.com/rajritik">
+    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" width="100%" height="150px"/>
+  </a>
 
 
 ## 🔥 Contribution Heatmaps  
