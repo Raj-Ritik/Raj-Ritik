@@ -34,7 +34,7 @@ Example with all links:
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/rajritik)
 [![Codolio](https://img.shields.io/badge/Codolio-222222?style=flat&logo=codeforces&logoColor=white)](https://codolio.com/profile/ritikraj)
 
 
