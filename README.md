@@ -64,3 +64,11 @@ Building modern, responsive, and user-centric applications.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Ritik&theme=github-dark&hide_border=true" width="90%"/>
 </p>
 ---
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raj-Ritik&theme=github_dark)
+
+![Commits Per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-Raj-Ritik&theme=github_dark)
+
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raj-Ritik&theme=github_dark)
+
+
