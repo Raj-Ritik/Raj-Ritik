@@ -5,14 +5,12 @@ Building modern, responsive, and user-centric applications.
 
 
 ### 📫 How to Reach Me
-- **Email:** [your.email@example.com](ritikraj2308@gmail.com)
+- **Email:** [ritikraj2308@gmail.com](mailto:ritikraj2308@gmail.com)
 
 ### 🌍 Find Me on the Internet:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ritikraj23/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([your-twitter-url](https://x.com/raj_2308))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([your-instagram-url](https://www.instagram.com/raj_ritik23/))
-
-Example with all links:
 
 ---
 
@@ -43,20 +41,16 @@ Example with all links:
   <a href="https://auth.geeksforgeeks.org/user/ritikrac98b">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
+  <a href="https://codolio.com/profile/ritikraj">
+    <img src="https://img.shields.io/badge/Codolio-222222?style=flat&logo=codeforces&logoColor=white" />
+  </a>
 
 
 ---
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/rajritik)
-[![Codolio](https://img.shields.io/badge/Codolio-222222?style=flat&logo=codeforces&logoColor=white)](https://codolio.com/profile/ritikraj)
-
-
-
-## ⏳ WakaTime Stats
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=yourwakatimeusername&theme=dark)
 
 ---
 
