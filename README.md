@@ -51,7 +51,7 @@ Building modern, responsive, and user-centric applications.
 ## 📊 Stats
 
 <a href="https://leetcode.com/rajritik">
-    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" width="100%" height="150px"/>
+    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" style="max-width: 100%;"/>
   </a>
 
 
