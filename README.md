@@ -50,7 +50,7 @@ Building modern, responsive, and user-centric applications.
 
 ## 📊 Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/your-leetcode-username)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/rajritik)
 
 
 
