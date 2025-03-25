@@ -48,12 +48,14 @@ Building modern, responsive, and user-centric applications.
 
 ---
 
+## 📊 Stats
+
 <p align="center">
   <a href="https://github.com/Raj-Ritik">
     <img src="https://github-readme-stats.vercel.app/api?username=Raj-Ritik&show_icons=true&theme=dark" height="180px"/>
   </a>
   <a href="https://leetcode.com/rajritik">
-    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" height="180px"/>
+    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" height="180px" width="90%"/>
   </a>
 </p>
 
@@ -62,11 +64,6 @@ Building modern, responsive, and user-centric applications.
 <p align="center">
   <!-- GitHub Heatmap -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Ritik&theme=github-dark&hide_border=true" width="90%"/>
-  
-  <!-- LeetCode Heatmap (Increased Size) -->
-  <a href="https://leetcode.com/rajritik">
-    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" width="90%"/>
-  </a>
 </p>
 
 ---
