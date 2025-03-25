@@ -63,7 +63,6 @@ Building modern, responsive, and user-centric applications.
   <!-- GitHub Heatmap -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Ritik&theme=github-dark&hide_border=true" width="90%"/>
 </p>
----
 
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raj-Ritik&theme=github_dark)
 
