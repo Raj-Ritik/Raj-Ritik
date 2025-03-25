@@ -8,9 +8,9 @@ Building modern, responsive, and user-centric applications.
 - **Email:** [ritikraj2308@gmail.com](mailto:ritikraj2308@gmail.com)
 
 ### 🌍 Find Me on the Internet:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ritikraj23/))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([your-twitter-url](https://x.com/raj_2308))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([your-instagram-url](https://www.instagram.com/raj_ritik23/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ritikraj23/](https://www.linkedin.com/in/ritikraj23/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://x.com/raj_2308](https://x.com/raj_2308))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/raj_ritik23/](https://www.instagram.com/raj_ritik23/))
 
 ---
 
