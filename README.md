@@ -62,6 +62,12 @@ Building modern, responsive, and user-centric applications.
   <!-- GitHub Heatmap -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Ritik&theme=github-dark&hide_border=true" width="90%"/>
 </p>
+<p align="center">
+  <!-- LeetCode Heatmap -->
+  <a href="https://leetcode.com/your-leetcode-username">
+    <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Montserrat&ext=heatmap" width="90%"/>
+  </a>
+</p>
 
 ---
 
