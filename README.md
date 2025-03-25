@@ -36,7 +36,6 @@ Example with all links:
 
 ## 🚀 Coding Profiles  
 
-<p align="center">
   <a href="https://leetcode.com/your-leetcode-username">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
@@ -49,7 +48,6 @@ Example with all links:
   <a href="https://auth.geeksforgeeks.org/user/your-gfg-username">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
-</p>
 
 
 ---
