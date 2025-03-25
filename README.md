@@ -48,9 +48,26 @@ Building modern, responsive, and user-centric applications.
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/rajritik)
+<p align="center">
+  <a href="https://github.com/Raj-Ritik">
+    <img src="https://github-readme-stats.vercel.app/api?username=Raj-Ritik&show_icons=true&theme=dark" height="180px"/>
+  </a>
+  <a href="https://leetcode.com/rajritik">
+    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" height="180px"/>
+  </a>
+</p>
+
+## 🔥 Contribution Heatmaps  
+
+<p align="center">
+  <!-- GitHub Heatmap -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Ritik&theme=github-dark&hide_border=true" width="90%"/>
+  
+  <!-- LeetCode Heatmap (Increased Size) -->
+  <a href="https://leetcode.com/rajritik">
+    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" width="90%"/>
+  </a>
+</p>
 
 ---
 
