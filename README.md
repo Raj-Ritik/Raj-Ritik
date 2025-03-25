@@ -65,3 +65,6 @@ Building modern, responsive, and user-centric applications.
 </p>
 ---
 
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark)
+
+
