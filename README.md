@@ -50,13 +50,15 @@ Building modern, responsive, and user-centric applications.
 
 ## 📊 Stats
 
-
-  <a href="https://github.com/Raj-Ritik">
-    <img src="https://github-readme-stats.vercel.app/api?username=Raj-Ritik&show_icons=true&theme=dark" height="180px"/>
-  </a>
+<p align="center">
+  <!-- GitHub Heatmap -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Ritik&theme=github-dark&hide_border=true" width="90%"/>
+  
+  <!-- LeetCode Heatmap -->
   <a href="https://leetcode.com/rajritik">
-    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" height="180px" width="100%"/>
+    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" width="100%"/>
   </a>
+</p>
 
 
 ## 🔥 Contribution Heatmaps  
