@@ -39,29 +39,3 @@ Building modern, responsive, and user-centric applications.
     <img src="https://img.shields.io/badge/Codolio-222222?style=flat&logo=codeforces&logoColor=white" />
   </a>
 
-
----
-
-## 📊 Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-<a href="https://leetcode.com/rajritik">
-    <img src="https://leetcard.jacoblin.cool/rajritik?theme=dark&font=Montserrat&ext=heatmap" style="max-width: 100%;"/>
-  </a>
-
----
-
-## 🔥 Contribution Heatmaps  
-
-<p align="center">
-  <!-- GitHub Heatmap -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Ritik&theme=github-dark&hide_border=true" width="90%"/>
-</p>
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raj-Ritik&theme=github_dark)
-
-![Commits Per Year](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-Raj-Ritik&theme=github_dark)
-
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raj-Ritik&theme=github_dark)
-
-
