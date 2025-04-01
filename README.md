@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ritik Raj
 
-## A Passionate Web Developer
-Building modern, responsive, and user-centric applications.
+---
+I like to innovate and code. I like to do Competitive Programming , Data Structure Algorithm and Web Development ! 😉
 
 
 ### 📫 How to Reach Me
